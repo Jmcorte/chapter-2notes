@@ -18,3 +18,8 @@ while (z< 10){
     console.log(z);
 }
 
+let w = -11;
+while (w< 10){
+    w--;
+    console.log(z);
+}
